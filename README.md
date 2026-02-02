@@ -1,3 +1,5 @@
+# Ticketing System Implementation (osTicket)
+
 This repository serves as an index for a multi-stage lab designed to implement, configure, and simulate a production-style IT ticketing system using osTicket, including installation, configuration, and ticket lifecycle simulation.
 
 <p align="left"><img src="https://skillicons.dev/icons?i=azure,windows,php,mysql" />&nbsp;&nbsp;<img src="https://github.com/MikeSays-1/osTicket-Install/raw/main/images/osticket-icon-dark.png" width="48"></p>
